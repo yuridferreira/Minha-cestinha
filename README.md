@@ -44,12 +44,12 @@ Antes de começar, verifique se você tem instalado:
 
 3. **Inicie o servidor de desenvolvimento**
    ```bash
-   npm start
+   npm expo start
    ```
 
 ## 💻 Scripts Disponíveis
 
-- `npm start` - Inicia o servidor de desenvolvimento do Expo
+- `npm expo start` - Inicia o servidor de desenvolvimento do Expo
 - `npm run android` - Executa o app no Android
 - `npm run ios` - Executa o app no iOS
 - `npm run web` - Executa o app na web
